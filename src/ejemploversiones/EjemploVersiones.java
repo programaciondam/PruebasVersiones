@@ -17,6 +17,7 @@ public class EjemploVersiones {
         System.out.println("Miercoles 25");
         System.out.println("importe priemera etiqueta");
         System.out.println("otra etiqueta");
+        System.out.println("etiqueta nueva");
     }
     
 }
