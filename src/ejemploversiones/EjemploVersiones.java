@@ -19,6 +19,7 @@ public class EjemploVersiones {
         System.out.println("hoy es 26 de enero");
         System.out.println(" estoy en remoto");
         System.out.println("Estoy en la rama master ");
+        System.out.println("remoto master");
     }
     
 }
