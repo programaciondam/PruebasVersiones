@@ -15,7 +15,9 @@ public class EjemploVersiones {
         System.out.println("importe priemera etiqueta");
         System.out.println("otra etiqueta");
         System.out.println("etiqueta nueva");
+        
         System.out.println("hoy es 26 de enero");
+        System.out.println(" estoy en remoto");
     }
     
 }
