@@ -4,20 +4,18 @@
  */
 package ejemploversiones;
 
-/**
- *
- * @author dam
- */
-public class EjemploVersiones {
 
+public class EjemploVersiones {
     /**
-     * @param args the command line arguments
+     * @param args the command line argumentsjfd
+     * jfhsdkfl
      */
     public static void main(String[] args) {
         System.out.println("Miercoles 25");
         System.out.println("importe priemera etiqueta");
         System.out.println("otra etiqueta");
         System.out.println("etiqueta nueva");
+        System.out.println("hoy es 26 de enero");
     }
     
 }
